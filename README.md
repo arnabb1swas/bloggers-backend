@@ -1,4 +1,4 @@
-# learn-django
+# Bloggers Backend
 create a .env file
 install the requirments
 and enjoy
